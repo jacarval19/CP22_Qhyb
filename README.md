@@ -1,2 +1,4 @@
 # CP22_Qhyb
-Jeff' repository for hybrid Quantum Computing 
+Jeff's repository for hybrid Quantum Computing
+
+lasers are cool
